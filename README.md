@@ -46,6 +46,28 @@ Algorithm discovers which actions yeild greatest rewards through trial and error
 - Gaming
 - Navigation
 
-<hr>
-
 ## What is required to create good ML systems?
+
+- Data preparation capabilities
+- Algorithms: Basic and Advanced
+- Automation and Iterative processes
+- Scalability
+- Ensemble Modeling
+
+## Challenges and Risks with AI:
+
+- Bias can affect results
+- Errors may cause harm
+- Data would be exposed
+- Solution may not work for everyone
+- Users must trust a complex system
+- Who's liable for AI driven decisions?
+
+## Principles of Responsible AI:
+
+- Fairness
+- Reliability and safety
+- Privacy and Security
+- Inclusiveness
+- Transparency
+- Accountability
