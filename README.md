@@ -74,3 +74,33 @@ Algorithm discovers which actions yeild greatest rewards through trial and error
 
 
 ## What is Computer Vision?
+
+![image](https://user-images.githubusercontent.com/83345228/178419725-9b09032f-c9bc-48ae-a478-582a2092aece.png)
+
+Computer vision is the field of computer science that focuses on creating digital systems that can process, analyze, and make sense of visual data (images or videos) in the same way that humans do. The concept of computer vision is based on teaching computers to process an image at a pixel level and understand it. Technically, machines attempt to retrieve visual information, handle it, and interpret results through special software algorithms.
+
+Common tasks that computer vision systems can be used for include: Object Detection, Object Classification, and Object Tracking.
+
+
+## How does Computer Vision work?
+
+![image](https://user-images.githubusercontent.com/83345228/178420184-0180145b-12d6-477d-96aa-53695d99a970.png)
+
+## What is Deep Learning?
+
+Deep learning is a type of machine learning and artificial intelligence (AI) that imitates the way humans gain certain types of knowledge. Deep learning is an important element of data science, which includes statistics and predictive modeling. At its simplest, deep learning can be thought of as a way to automate predictive analytics. While traditional machine learning algorithms are linear, deep learning algorithms are stacked in a hierarchy of increasing complexity and abstraction.
+
+![image](https://user-images.githubusercontent.com/83345228/178420852-e1205099-8218-4291-9f55-9f13303677ea.png)
+
+## Applications of Computer Vision and Deep Learning:
+
+- Medical Imaging (Detection of diabetic retinopathy, Cancer, Brain tumors, etc...)
+- Facial Recognition (Biometric recognition)
+- Content organization (Google/Apple photos)
+- Agriculture (Determine plant health and type)
+
+## Relationship between AI, ML and DL:
+
+![image](https://user-images.githubusercontent.com/83345228/178422228-b80fea8b-6140-49e0-8ad4-7451da9d8ea7.png)
+
+
