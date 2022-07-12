@@ -71,3 +71,6 @@ Algorithm discovers which actions yeild greatest rewards through trial and error
 - Inclusiveness
 - Transparency
 - Accountability
+
+
+## What is Computer Vision?
